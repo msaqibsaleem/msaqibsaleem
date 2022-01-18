@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msaqibsaleem
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning datascience related technologies
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on django
 - 📫 You can reachme on msaqibsaleem@redxnet.com
 
 <!---
